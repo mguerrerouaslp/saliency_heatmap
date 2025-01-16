@@ -6,8 +6,9 @@
 
 **Responsables**
 
-- [Dr. Manuel Guerrero Salinas](https://investigadores.uaslp.mx/InvestigadorProfile/EC8AAA%3D%3D)
-- [Dra. Eréndida Cristina Mancilla González](https://investigadores.uaslp.mx/InvestigadorProfile/JC8AAA%3D%3D)
+Dr. Manuel Guerrero Salinas
+
+Dra. Eréndida Cristina Mancilla González
 
 ---
 
