@@ -77,7 +77,8 @@ Estos pasos permiten aplicar y visualizar el análisis de saliencia en cualquier
 
 ---
 
-Google Colab: https://colab.research.google.com/github/tuusuario/saliency_heatmap/blob/main/saliency_heatmap.ipynb
+Puedes acceder al notebook aquí: [saliency_heatmap.ipynb](saliency_heatmap.ipynb)
+
 
 ---
 
