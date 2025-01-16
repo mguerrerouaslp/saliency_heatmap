@@ -1,3 +1,15 @@
+**Responsables**
+
+- [Dr. Manuel Guerrero Salinas](https://investigadores.uaslp.mx/InvestigadorProfile/EC8AAA%3D%3D)
+- [Dra. Eréndida Cristina Mancilla González](https://investigadores.uaslp.mx/InvestigadorProfile/JC8AAA%3D%3D)
+
+
+**Universidad Autónoma de San Luis Potosí
+Laboratorio de Experimentación visual (LEM)**
+
+<img src="/imagenes/logos.png" alt="" width="400">
+
+
 ## Estudios de Saliencia
 
 Los estudios de saliencia se centran en identificar y resaltar las áreas de una imagen que captan más la atención visual, conocidas como regiones salientes. Estos estudios son fundamentales en campos como la visión por computadora, la compresión de imágenes, la segmentación y el reconocimiento de objetos, ya que ayudan a enfocar el procesamiento en las partes más relevantes de la imagen. La saliencia puede definirse a partir de distintas características visuales como el contraste de color, la orientación, la intensidad luminosa o diferencias texturales. Los algoritmos de saliencia buscan emular cómo el sistema visual humano detecta automáticamente los objetos y las áreas de interés en una escena compleja.
