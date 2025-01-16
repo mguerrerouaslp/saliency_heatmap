@@ -74,3 +74,13 @@ Utiliza plt.subplots() para crear una figura con dos subplots: uno para la image
 - El script puede guardar la figura combinada y ofrecer la opción de descargarla.
 
 Estos pasos permiten aplicar y visualizar el análisis de saliencia en cualquier imagen, facilitando la comprensión de las áreas que captan mayor atención visual.
+
+---
+
+## Ejemplos
+
+Ejemplo de imágenes
+
+![ejemplo1](images/original_y_heatmap_saliency1.png)
+
+![ejemplo2](images/original_y_heatmap_saliency2.png)
