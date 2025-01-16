@@ -44,18 +44,22 @@ El modelo StaticSaliencySpectralResidual_create en OpenCV es una implementación
 **3. Cálculo del Heatmap de Saliencia:**
 - Crea el objeto de saliencia:
 
-```python
-saliency = cv2.saliency.StaticSaliencySpectralResidual_create()```
+```
+saliency = cv2.saliency.StaticSaliencySpectralResidual_create()
+```
+
 - Computa el mapa de saliencia:
 
-```python
-(success, saliencyMap) = saliency.computeSaliency(image)```
+```
+(success, saliencyMap) = saliency.computeSaliency(image)
+```
 
 - Convierte y procesa el mapa para su visualización:
 
-```python
+```
 saliencyMap = (saliencyMap * 255).astype("uint8")
-heatmap = cv2.applyColorMap(saliencyMap, cv2.COLORMAP_JET)```
+heatmap = cv2.applyColorMap(saliencyMap, cv2.COLORMAP_JET)
+```
 
 **4. Visualización:**
 
