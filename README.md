@@ -1,4 +1,4 @@
-**Universidad Autónoma de San Luis Potosí**
+## Universidad Autónoma de San Luis Potosí
 
 **Laboratorio de Experimentación visual (LEM)**
 
