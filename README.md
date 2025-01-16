@@ -79,11 +79,8 @@ Estos pasos permiten aplicar y visualizar el análisis de saliencia en cualquier
 
 ## Ejemplos
 
-Ejemplo de imágenes
 
-![ejemplo1](images/original_y_heatmap_saliency1.png)
-Páginas 38 y 39 de la revista Matiz Gráfico del Diseño Internacional.
-Fuente: Matiz Gráfico del Diseño Internacional, 1997.
+![ejemplo1](images/original_y_heatmap_saliency1.png "Páginas 38 y 39 de la revista Matiz Gráfico del Diseño Internacional. Fuente: Matiz Gráfico del Diseño Internacional, 1997.")
 
 
 ![ejemplo2](images/original_y_heatmap_saliency2.png)
