@@ -7,7 +7,7 @@
 **Universidad Autónoma de San Luis Potosí
 Laboratorio de Experimentación visual (LEM)**
 
-<img src="/imagenes/logos.png" alt="" width="400">
+<img src="/images/logos.png" alt="" width="400">
 
 
 ## Estudios de Saliencia
