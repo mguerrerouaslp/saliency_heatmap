@@ -1,14 +1,15 @@
+**Universidad Autónoma de San Luis Potosí**
+
+**Laboratorio de Experimentación visual (LEM)**
+
+<img src="/images/logos.png" alt="" width="400">
+
 **Responsables**
 
 - [Dr. Manuel Guerrero Salinas](https://investigadores.uaslp.mx/InvestigadorProfile/EC8AAA%3D%3D)
 - [Dra. Eréndida Cristina Mancilla González](https://investigadores.uaslp.mx/InvestigadorProfile/JC8AAA%3D%3D)
 
-
-**Universidad Autónoma de San Luis Potosí
-Laboratorio de Experimentación visual (LEM)**
-
-<img src="/images/logos.png" alt="" width="400">
-
+---
 
 ## Estudios de Saliencia
 
